@@ -4,13 +4,13 @@
 Shown in the .html and .ipynb file. 
 
 ### Project Title
-Replace the Project Title
+Explore_bikeshare_data
 
 ### Description
-Describe what your project is about and what it does
+Explore the bikeshare service usage in Chicago, New York, Washton.
 
 ### Files used
-Include the files used
+To show the explore work that I'm interested in.
 
 ### Credits
 https://motivateco.com/. Data from the link inspired me and support my consult.
