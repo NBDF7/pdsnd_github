@@ -7,7 +7,7 @@ Include the date you created this project and README file.
 Explore_bikeshare_data
 
 ### Description
-Explore the bikeshare service usage in 3 American cities
+Explore the bikeshare service usage in Chicago, New York, Washton.
 
 ### Files used
 Include the files used
