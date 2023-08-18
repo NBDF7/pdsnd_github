@@ -4,10 +4,10 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+Explore_bikeshare_data
 
 ### Description
-Describe what your project is about and what it does
+Explore the bikeshare service usage in 3 American cities
 
 ### Files used
 Include the files used
