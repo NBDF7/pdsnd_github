@@ -10,7 +10,7 @@ Explore_bikeshare_data
 Explore the bikeshare service usage in Chicago, New York, Washton.
 
 ### Files used
-Include the files used
+To show the explore work that I'm interested in.
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
